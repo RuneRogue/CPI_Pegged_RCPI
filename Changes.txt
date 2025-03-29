@@ -1,0 +1,2 @@
+RCS price calculation mechanism is wrong.
+Use RCS total supply to calculate price
