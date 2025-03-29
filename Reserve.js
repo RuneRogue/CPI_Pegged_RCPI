@@ -5,7 +5,7 @@ const csvParser = require("csv-parser");
 const { Parser } = require("json2csv");
 
 // Initialize your provider and contract instances
-const INFURA_API_URL = `https://polygon-amoy.g.alchemy.com/v2/ON1ctftr6l4I-udsVICw75aKx-JLPufd`;
+const INFURA_API_URL = `https://polygon-amoy.g.alchemy.com/v2/*******************`;
 const PRIVATE_KEY = `************************`; // Make sure to keep this safe
 const provider = new ethers.JsonRpcProvider(INFURA_API_URL);
 
