@@ -21,7 +21,7 @@ const RcoinReserveAddress = "0x06a6e91dA901Fb5b3233611Fee5dA97Ca620bDa1";
 const INFURA_API_URL = `https://polygon-amoy.g.alchemy.com/v2/ON1ctftr6l4I-udsVICw75aKx-JLPufd`;
 const provider = new ethers.providers.JsonRpcProvider(INFURA_API_URL);
 const PRIVATE_KEY =
-    "9455752e893232f2df870be7b333a99175a08da9fa12cd8328596cd8c5bdacda";
+    "**********************************";
 
 
 
